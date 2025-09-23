@@ -47,3 +47,8 @@ div {
   font-size: 1.0em;
   color: aquamarine;
 }
+
+.priority {
+  font-weight: bold;
+  font-size: 1.0em;
+}
