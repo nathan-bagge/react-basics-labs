@@ -107,3 +107,24 @@ form {
   width: 50%;
   margin: auto;
 }
+
+.priority-high {
+  background-color: red;
+  color: white;
+  padding: 5px;
+  border-radius: 6px;
+}
+
+.priority-medium {
+  background-color: orange;
+  color: white;
+  padding: 5px;
+  border-radius: 6px;
+}
+
+.priority-low {
+  background-color: green;
+  color: white;
+  padding: 5px;
+  border-radius: 6px;
+}
